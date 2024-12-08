@@ -2,6 +2,7 @@
 layout: default
 title:  "From checkbox to timestamp"
 nav_order: 2
+permalink: /from-checkbox-to-timestamp
 ---
 This is just a very simple table that contains checkboxes in the first column and timestamps in the second column. Selecting a checkbox will populate the cell to the right with the timestamp that the checkbox was selected. Unselecting it updates the timestamp. 
 
