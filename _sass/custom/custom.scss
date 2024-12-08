@@ -1,0 +1,9 @@
+.side-bar {
+    @include mq(lg) {
+      width: calc((80% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
+    }
+  }
+
+.button-wrapper {
+    text-align: center;
+}
